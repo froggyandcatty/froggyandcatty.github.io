@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-03T11:11:19.927Z</updated>
+  <updated>2017-08-04T00:54:46.642Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>暴雪防卫局 0.9版本更新</title>
-    <link href="http://yoursite.com/2017/08/03/BLZ-Enforcement-09/"/>
-    <id>http://yoursite.com/2017/08/03/BLZ-Enforcement-09/</id>
+    <link href="http://yoursite.com/undefined/en/BLZ-Enforcement-09/"/>
+    <id>http://yoursite.com/undefined/en/BLZ-Enforcement-09/</id>
     <published>2017-08-03T11:06:55.000Z</published>
-    <updated>2017-08-03T11:11:19.927Z</updated>
+    <updated>2017-08-04T00:54:46.642Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,46 @@
     
     
       <category term="CN" scheme="http://yoursite.com/tags/CN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>暴雪防卫局 0.9版本更新</title>
+    <link href="http://yoursite.com/undefined/zh-Hans/BLZ-Enforcement-09/"/>
+    <id>http://yoursite.com/undefined/zh-Hans/BLZ-Enforcement-09/</id>
+    <published>2017-08-03T11:06:55.000Z</published>
+    <updated>2017-08-04T00:54:46.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://bbs.islga.org/data/attachment/forum/201707/21/011059yzax8goiaoras72h.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大家好，（又经过了很长时间
+    
+    </summary>
+    
+    
+      <category term="CN" scheme="http://yoursite.com/tags/CN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>暴雪防衛局 0.9版本更新</title>
+    <link href="http://yoursite.com/undefined/zh-tw/BLZ-Enforcement-09/"/>
+    <id>http://yoursite.com/undefined/zh-tw/BLZ-Enforcement-09/</id>
+    <published>2017-08-03T11:06:55.000Z</published>
+    <updated>2017-08-04T00:54:46.650Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://bbs.islga.org/data/attachment/forum/201707/21/011059yzax8goiaoras72h.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大家好，（又經過了很長時間
+    
+    </summary>
+    
+    
+      <category term="TW" scheme="http://yoursite.com/tags/TW/"/>
     
   </entry>
   
